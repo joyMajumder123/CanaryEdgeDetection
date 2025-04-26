@@ -26,5 +26,7 @@ This project demonstrates a manual implementation of the **Canny Edge Detection*
 
 Install dependencies using:
 
-```bash
+`bash
 pip install numpy matplotlib pillow ipywidgets
+
+Here is a demo example- https://colab.research.google.com/drive/1u36QuJlq3I7cPghyyYBel61J-cyxZ3Hb?usp=sharing#scrollTo=A_fpJCsHt0ER
