@@ -1,4 +1,4 @@
-# CanaryEdgeDetection
+# CannyEdgeDetection
 # 🧠 Canny Edge Detection (Python Implementation)
 
 This project demonstrates a manual implementation of the **Canny Edge Detection** algorithm in Python — without using OpenCV or other pre-built computer vision libraries. It walks through each step of the edge detection process and allows threshold tuning via sliders (if run in Google Colab) or static values (if run locally in VS Code).
@@ -29,4 +29,4 @@ Install dependencies using:
 `bash
 pip install numpy matplotlib pillow ipywidgets
 
-Here is a demo example- https://colab.research.google.com/drive/1u36QuJlq3I7cPghyyYBel61J-cyxZ3Hb?usp=sharing#scrollTo=A_fpJCsHt0ER
+Here is a working demo in google collab --  https://colab.research.google.com/drive/1UlR7KkHPBldshUSsq0YBGJruSU9Am9hq?usp=sharing
