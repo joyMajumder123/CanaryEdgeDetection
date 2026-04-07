@@ -39,3 +39,5 @@ Install dependencies using:
 pip install numpy matplotlib pillow ipywidgets
 
 Here is a working demo in google collab --  https://colab.research.google.com/drive/1UlR7KkHPBldshUSsq0YBGJruSU9Am9hq?usp=sharing
+<img width="459" height="494" alt="image" src="https://github.com/user-attachments/assets/40f3696d-4342-4879-bd91-57b7a7ad905f" />
+
