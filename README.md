@@ -1,5 +1,5 @@
-# CannyEdgeDetection
-# 🧠 Canny Edge Detection (Python Implementation)
+
+# Canny Edge Detection (Python Implementation)
 
 **Context**
 
@@ -12,9 +12,9 @@ Simple edge detection techniques are sensitive to noise and may either miss impo
 **Solution**
 
 Canny Edge Detection provides a multi-stage approach that includes noise reduction, gradient calculation, non-maximum suppression, and thresholding. This method effectively detects strong and continuous edges while minimizing noise, resulting in accurate boundary detection.
----
 
-## 📌 Features
+
+## Features
 
 - Full implementation of:
   - Grayscale conversion
@@ -31,7 +31,7 @@ Canny Edge Detection provides a multi-stage approach that includes noise reducti
 
 ---
 
-## 🔧 Requirements
+##  Requirements
 
 Install dependencies using:
 
